@@ -1,0 +1,16 @@
+C:\Users\alofi\OneDrive\Desktop\SHR3_SWD5_S1\C# day 02\Part01\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.exe
+C:\Users\alofi\OneDrive\Desktop\SHR3_SWD5_S1\C# day 02\Part01\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.deps.json
+C:\Users\alofi\OneDrive\Desktop\SHR3_SWD5_S1\C# day 02\Part01\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.json
+C:\Users\alofi\OneDrive\Desktop\SHR3_SWD5_S1\C# day 02\Part01\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.runtimeconfig.dev.json
+C:\Users\alofi\OneDrive\Desktop\SHR3_SWD5_S1\C# day 02\Part01\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.dll
+C:\Users\alofi\OneDrive\Desktop\SHR3_SWD5_S1\C# day 02\Part01\ConsoleApp\ConsoleApp\bin\Debug\net5.0\ConsoleApp.pdb
+C:\Users\alofi\OneDrive\Desktop\SHR3_SWD5_S1\C# day 02\Part01\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alofi\OneDrive\Desktop\SHR3_SWD5_S1\C# day 02\Part01\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\alofi\OneDrive\Desktop\SHR3_SWD5_S1\C# day 02\Part01\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.AssemblyInfo.cs
+C:\Users\alofi\OneDrive\Desktop\SHR3_SWD5_S1\C# day 02\Part01\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\alofi\OneDrive\Desktop\SHR3_SWD5_S1\C# day 02\Part01\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.sourcelink.json
+C:\Users\alofi\OneDrive\Desktop\SHR3_SWD5_S1\C# day 02\Part01\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.dll
+C:\Users\alofi\OneDrive\Desktop\SHR3_SWD5_S1\C# day 02\Part01\ConsoleApp\ConsoleApp\obj\Debug\net5.0\refint\ConsoleApp.dll
+C:\Users\alofi\OneDrive\Desktop\SHR3_SWD5_S1\C# day 02\Part01\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.pdb
+C:\Users\alofi\OneDrive\Desktop\SHR3_SWD5_S1\C# day 02\Part01\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ConsoleApp.genruntimeconfig.cache
+C:\Users\alofi\OneDrive\Desktop\SHR3_SWD5_S1\C# day 02\Part01\ConsoleApp\ConsoleApp\obj\Debug\net5.0\ref\ConsoleApp.dll

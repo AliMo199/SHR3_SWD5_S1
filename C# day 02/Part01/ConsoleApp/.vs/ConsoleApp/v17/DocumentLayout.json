@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\alofi\\OneDrive\\Desktop\\Lelouch\\Visual Studio projs\\ConsoleApp\\",
+  "WorkspaceRootPath": "C:\\Users\\alofi\\OneDrive\\Desktop\\SHR3_SWD5_S1\\C# day 02\\Part01\\ConsoleApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6614C021-2125-4336-865B-4DFFBBE54E7A}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\alofi\\onedrive\\desktop\\lelouch\\visual studio projs\\consoleapp\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{6614C021-2125-4336-865B-4DFFBBE54E7A}|ConsoleApp\\ConsoleApp.csproj|c:\\users\\alofi\\onedrive\\desktop\\shr3_swd5_s1\\c# day 02\\part01\\consoleapp\\consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6614C021-2125-4336-865B-4DFFBBE54E7A}|ConsoleApp\\ConsoleApp.csproj|solutionrelative:consoleapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -28,11 +28,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\alofi\\OneDrive\\Desktop\\Lelouch\\Visual Studio projs\\ConsoleApp\\ConsoleApp\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\alofi\\OneDrive\\Desktop\\SHR3_SWD5_S1\\C# day 02\\Part01\\ConsoleApp\\ConsoleApp\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp\\Program.cs",
-              "ToolTip": "C:\\Users\\alofi\\OneDrive\\Desktop\\Lelouch\\Visual Studio projs\\ConsoleApp\\ConsoleApp\\Program.cs",
+              "ToolTip": "C:\\Users\\alofi\\OneDrive\\Desktop\\SHR3_SWD5_S1\\C# day 02\\Part01\\ConsoleApp\\ConsoleApp\\Program.cs",
               "RelativeToolTip": "ConsoleApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEwAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-26T09:21:06.916Z",
               "EditorCaption": ""
