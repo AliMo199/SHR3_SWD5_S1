@@ -1,0 +1,15 @@
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\ExaminationSystem\ExaminationSystem\bin\Debug\net5.0\ExaminationSystem.exe
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\ExaminationSystem\ExaminationSystem\bin\Debug\net5.0\ExaminationSystem.deps.json
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\ExaminationSystem\ExaminationSystem\bin\Debug\net5.0\ExaminationSystem.runtimeconfig.json
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\ExaminationSystem\ExaminationSystem\bin\Debug\net5.0\ExaminationSystem.runtimeconfig.dev.json
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\ExaminationSystem\ExaminationSystem\bin\Debug\net5.0\ExaminationSystem.dll
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\ExaminationSystem\ExaminationSystem\bin\Debug\net5.0\ExaminationSystem.pdb
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\ExaminationSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\ExaminationSystem.AssemblyInfoInputs.cache
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\ExaminationSystem.AssemblyInfo.cs
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\ExaminationSystem.csproj.CoreCompileInputs.cache
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\ExaminationSystem.dll
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\refint\ExaminationSystem.dll
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\ExaminationSystem.pdb
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\ExaminationSystem.genruntimeconfig.cache
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\ExaminationSystem\ExaminationSystem\obj\Debug\net5.0\ref\ExaminationSystem.dll
