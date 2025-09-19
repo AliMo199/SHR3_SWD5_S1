@@ -1,0 +1,17 @@
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\HRPrac\Data\obj\Debug\net9.0\Data.csproj.AssemblyReference.cache
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\HRPrac\Data\obj\Debug\net9.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\HRPrac\Data\obj\Debug\net9.0\Data.AssemblyInfoInputs.cache
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\HRPrac\Data\obj\Debug\net9.0\Data.AssemblyInfo.cs
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\HRPrac\Data\obj\Debug\net9.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\HRPrac\Data\bin\Debug\net9.0\Data.deps.json
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\HRPrac\Data\bin\Debug\net9.0\Data.dll
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\HRPrac\Data\bin\Debug\net9.0\Data.pdb
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\HRPrac\Data\bin\Debug\net9.0\Business.dll
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\HRPrac\Data\bin\Debug\net9.0\Shared.dll
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\HRPrac\Data\bin\Debug\net9.0\Business.pdb
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\HRPrac\Data\bin\Debug\net9.0\Shared.pdb
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\HRPrac\Data\obj\Debug\net9.0\Data.csproj.Up2Date
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\HRPrac\Data\obj\Debug\net9.0\Data.dll
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\HRPrac\Data\obj\Debug\net9.0\refint\Data.dll
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\HRPrac\Data\obj\Debug\net9.0\Data.pdb
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\HRPrac\Data\obj\Debug\net9.0\ref\Data.dll

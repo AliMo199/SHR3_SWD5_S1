@@ -1,0 +1,161 @@
+﻿@model EmployeeDetailsViewModel
+@{
+    ViewData["Title"] = "EmpEdit";
+    SelectList Deptlist = new SelectList(Model.DepartmentList, "DepartmentId", "Name");
+    SelectList Benefitlist = new SelectList(Model.BenefitList, "BenefitId", "PlanType");
+    SelectList EmpTypes = new SelectList(Model.EmpTypes, "EmpType");
+}
+@section Scripts {
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js"></script>
+    <script>
+                // Add this right before the existing change event handler
+        document.addEventListener('DOMContentLoaded', function() {
+            // Initialize display based on currently selected employee type
+            var employeeType = document.getElementById('EmployeeType').value;
+            var SalariedEmp = document.getElementById('SalariedEmp');
+            var ManagerEmp = document.getElementById('ManagerEmp');
+            var HourlyEmp = document.getElementById('HourlyEmp');
+            var CommissionEmp = document.getElementById('CommissionEmp');
+
+            // Hide all first
+            SalariedEmp.style.display = 'none';
+            ManagerEmp.style.display = 'none';
+            HourlyEmp.style.display = 'none';
+            CommissionEmp.style.display = 'none';
+
+            // Show based on selected type
+            if (employeeType === 'Salaried') {
+                SalariedEmp.style.display = 'block';
+            } else if (employeeType === 'Manager') {
+                SalariedEmp.style.display = 'block';
+                ManagerEmp.style.display = 'block';
+            } else if (employeeType === 'Hourly') {
+                HourlyEmp.style.display = 'block';
+            } else if (employeeType === 'Commission') {
+                CommissionEmp.style.display = 'block';
+            }
+        });
+
+        document.getElementById('EmployeeType').addEventListener('change', function () {
+            var SalariedEmp = document.getElementById('SalariedEmp');
+            var ManagerEmp = document.getElementById('ManagerEmp');
+            var HourlyEmp = document.getElementById('HourlyEmp');
+            var CommissionEmp = document.getElementById('CommissionEmp');
+
+            if (this.value === 'Salaried') {
+                SalariedEmp.style.display = 'block';
+                ManagerEmp.style.display = 'none';
+                HourlyEmp.style.display = 'none';
+                CommissionEmp.style.display = 'none';
+            } else if (this.value === 'Manager') {
+                SalariedEmp.style.display = 'block';
+                ManagerEmp.style.display = 'block';
+                HourlyEmp.style.display = 'none';
+                CommissionEmp.style.display = 'none';
+            } else if (this.value === 'Hourly') {
+                SalariedEmp.style.display = 'none';
+                ManagerEmp.style.display = 'none';
+                HourlyEmp.style.display = 'block';
+                CommissionEmp.style.display = 'none';
+            } else if (this.value === 'Commission') {
+                SalariedEmp.style.display = 'none';
+                ManagerEmp.style.display = 'none';
+                HourlyEmp.style.display = 'none';
+                CommissionEmp.style.display = 'block';
+            } else {
+                SalariedEmp.style.display = 'none';
+                ManagerEmp.style.display = 'none';
+                HourlyEmp.style.display = 'none';
+                CommissionEmp.style.display = 'none';
+            }
+        });
+    </script>
+}
+
+<h1>Edit Employee</h1>
+<a asp-action="Index">&lt;-</a>
+<form asp-action="SaveEmpEdit" asp-route-id="@Model.Employee.EmployeeId" asp-controller="Employee" method="post" enctype="multipart/form-data">
+    <div>
+        <label>Name</label>
+        <br>
+        <span asp-validation-for="Name" class="text-danger"></span>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <div>
+        <label>Phone Number</label>
+        <br>
+        <span asp-validation-for="PhoneNum" class="text-danger"></span>
+        <input asp-for="PhoneNum" class="form-control" />
+    </div>
+    <div>
+        <label>Email</label>
+        <br>
+        <span asp-validation-for="Email" class="text-danger"></span>
+        <input asp-for="Email" class="form-control" />
+    </div>
+    <div>
+        <label>Job Title</label>
+        <br>
+        <span asp-validation-for="JobTitle" class="text-danger"></span>
+        <input asp-for="JobTitle" class="form-control" />
+    </div>
+    <div>
+        <label>Department</label>
+        <br>
+        <span asp-validation-for="DepartmentId" class="text-danger"></span>
+        <select asp-for="DepartmentId" class="form-control" asp-items="Deptlist">
+            <option value="0" disabled selected>Select your option</option>
+        </select>
+    </div>
+    <div>
+        <label>Benefit</label>
+        <br>
+        <span asp-validation-for="BenefitId" class="text-danger"></span>
+        <select asp-for="BenefitId" class="form-control" asp-items="Benefitlist">
+            <option value="0" disabled selected>Select your option</option>
+        </select>
+    </div>
+    <div>
+        <label>Employee Type</label>
+        <br>
+        <span asp-validation-for="EmployeeType" class="text-danger"></span>
+        <select asp-for="EmployeeType" class="form-control" asp-items="EmpTypes">
+            <option value="" disabled selected>Select your option</option>
+        </select>
+    </div>
+    <div id="SalariedEmp" style="display:none">
+        <label>Salary</label>
+        <input asp-for="Salary" min="0" class="form-control" />
+    </div>
+    <div id="ManagerEmp" style="display:none">
+        <div>
+            <label>Bonus</label>
+            <input asp-for="Bonus" min="0" class="form-control" />
+        </div>
+    </div>
+    <div id="HourlyEmp" style="display:none">
+        <div>
+            <label>Hourly Rate</label>
+            <input asp-for="HourlyRate" min="0" class="form-control" />
+        </div>
+        <div>
+            <label>Hours Worked</label>
+            <input asp-for="Hoursworked" min="0" class="form-control" />
+        </div>
+    </div>
+    <div id="CommissionEmp" style="display:none">
+        <div>
+            <label>Commission Rate</label>
+            <input asp-for="CommissionRate" min="0" class="form-control" />
+        </div>
+        <div>
+            <label>Target</label>
+            <input asp-for="Target" min="0" class="form-control" />
+        </div>
+    </div>
+    <div style="margin-top:10px;">
+        <input type="submit" value="Edit" class="btn btn-success" />
+    </div>
+</form>

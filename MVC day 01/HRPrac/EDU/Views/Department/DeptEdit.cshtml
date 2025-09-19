@@ -1,0 +1,22 @@
+﻿@model HRPrac.Business.Models.Department
+@{
+	ViewData["Title"] = "EmpEdit";
+}
+<h1>Edit Employee</h1>
+<a asp-action="Index">&lt;-</a>
+<form asp-action="SaveDeptEdit" asp-route-id="@Model.DepartmentId" asp-controller="Department" method="post" enctype="multipart/form-data">
+    <div>
+        <label>Name</label>
+        <br>
+        <span asp-validation-for="Name" class="text-danger"></span>
+        <input asp-for="Name" class="form-control" />
+    </div>
+    <div style="margin-top:10px;">
+        <input type="submit" value="Add" class="btn btn-success" />
+    </div>
+</form>
+@section Scripts {
+    <script src="~/lib/jquery/dist/jquery.js"></script>
+    <script src="~/lib/jquery-validation/dist/jquery.validate.js"></script>
+    <script src="~/lib/jquery-validation-unobtrusive/dist/jquery.validate.unobtrusive.js"></script>
+}

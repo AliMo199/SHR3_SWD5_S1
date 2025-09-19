@@ -1,0 +1,32 @@
+﻿@model List<HRPrac.Business.Models.Department>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Department Index</h1>
+
+<table class="table table-bordered table-hover">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Actions</th>
+    </tr>
+    @foreach(var item in Model){
+        <tr>
+            <td>@item.DepartmentId</td>
+            <td>@item.Name</td>
+            <td>
+                <a asp-action="DeptEdit" asp-controller="Department" asp-route-id="@item.DepartmentId">Edit</a>
+                |
+                <a asp-action="DeptDetails" asp-controller="Department" asp-route-id="@item.DepartmentId">Details</a>
+                @if (item.Employees == null || !item.Employees.Any())
+                {
+                    @:|
+                    <a asp-action="DeptDelete" asp-controller="Department" asp-route-id="@item.DepartmentId">Delete</a>
+                }
+                
+            </td>
+        </tr> 
+        }
+</table>
+<a href="/Department/New">Add a new Department</a>

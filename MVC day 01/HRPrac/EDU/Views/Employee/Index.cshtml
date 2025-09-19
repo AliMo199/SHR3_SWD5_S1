@@ -1,0 +1,37 @@
+﻿@model List<HRPrac.Business.Models.Employee>
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Employees Index</h1>
+<table class="table table-bordered table-hover">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Phone Number</th>
+        <th>Email</th>
+        <th>Job Title</th>
+        <th>Department Name</th>
+		<th>Actions</th>
+    </tr>
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.EmployeeId</td>
+            <td>@item.Name</td>
+            <td>@item.PhoneNum</td>
+            <td>@item.Email</td>
+            <td>@item.JobTitle</td>
+            <td>@item.Department.Name</td>
+			<td>
+                <a asp-action="EmpDetails" asp-controller="Employee" asp-route-id="@item.EmployeeId">Details</a>
+                |
+                <a asp-action="EmpEdit" asp-controller="Employee" asp-route-id="@item.EmployeeId">Edit</a>
+                |
+                <a asp-action="EmpDelete" asp-controller="Employee" asp-route-id="@item.EmployeeId">Delete</a>
+            </td>
+        </tr>
+    }
+    
+</table>
+<a href="/Employee/NewEmp">Add a New Employee-&gt;</a>

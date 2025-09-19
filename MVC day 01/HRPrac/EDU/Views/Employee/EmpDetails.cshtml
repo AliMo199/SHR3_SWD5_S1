@@ -1,0 +1,95 @@
+﻿@model EmployeeDetailsViewModel
+@{
+    ViewData["Title"] = "Employee Details";
+}
+
+<h1>Employee Details</h1>
+
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="card-header">
+                    <h4>@Model.Name</h4>
+                </div>
+                <div class="card-body">
+                    <table class="table">
+                        <tr>
+                            <th>ID</th>
+                            <td>@Model.Employee.EmployeeId</td>
+                        </tr>
+                        <tr>
+                            <th>Phone Number</th>
+                            <td>@Model.PhoneNum</td>
+                        </tr>
+                        <tr>
+                            <th>Email</th>
+                            <td>@Model.Email</td>
+                        </tr>
+                        <tr>
+                            <th>Job Title</th>
+                            <td>@Model.JobTitle</td>
+                        </tr>
+                        <tr>
+                            <th>Department</th>
+                            <td>@Model.Department?.Name</td>
+                        </tr>
+                        <tr>
+                            <th>Benefit Plan<br>Coverage</th>
+                            <td>@Model.Benefit?.PlanType<br>@Model.Benefit?.Info_Coverage</td>
+                        </tr>
+                        <tr>
+                            <th>Employee Type</th>
+                            <td>@Model.EmployeeType</td>
+                        </tr>
+
+                        @if (Model.EmployeeType == "Salaried")
+                        {
+                            <tr>
+                                <th>Salary</th>
+                                <td>@Model.Salary.ToString("C0")</td>
+                            </tr>
+                        }
+                        else if (Model.EmployeeType == "Manager")
+                        {
+                            <tr>
+                                <th>Salary</th>
+                                <td>@Model.Salary.ToString("C0")</td>
+                            </tr>
+                            <tr>
+                                <th>Bonus</th>
+                                <td>@Model.Bonus.ToString("C0")</td>
+                            </tr>
+                        }
+                        else if (Model.EmployeeType == "Hourly")
+                        {
+                            <tr>
+                                <th>Hourly Rate</th>
+                                <td>@Model.HourlyRate.ToString("C2")/hr</td>
+                            </tr>
+                            <tr>
+                                <th>Hours Worked</th>
+                                <td>@Model.Hoursworked</td>
+                            </tr>
+                        }
+                        else if (Model.EmployeeType == "Commission")
+                        {
+                            <tr>
+                                <th>Target</th>
+                                <td>@Model.Target.ToString("C0")</td>
+                            </tr>
+                            <tr>
+                                <th>Commission Rate</th>
+                                <td>@Model.CommissionRate.ToString("C0")</td>
+                            </tr>
+                        }
+                    </table>
+                </div>
+                <div class="card-footer">
+                    <a href="javascript:history.go(-1)" class="btn btn-warning">Back to list</a>
+                    <a asp-action="EmpEdit" asp-route-id="@Model.Employee.EmployeeId" class="btn btn-warning">Edit</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
