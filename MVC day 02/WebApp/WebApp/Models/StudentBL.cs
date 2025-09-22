@@ -1,4 +1,6 @@
-﻿namespace WebApp.Models
+﻿using Microsoft.EntityFrameworkCore;
+
+namespace WebApp.Models
 {
     public class StudentBL
     {

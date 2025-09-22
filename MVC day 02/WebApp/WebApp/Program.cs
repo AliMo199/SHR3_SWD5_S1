@@ -13,7 +13,7 @@ namespace WebApp
             builder.Services.AddControllersWithViews();
 
             builder.Services.AddDbContext<ApplicationDBContext>(options =>
-        options.UseSqlServer("Data Source=MSI\\SQLEXPRESS;Database=DepiAssignment;Trusted_Connection=True;TrustServerCertificate=True;"));
+        options.UseSqlServer("Data Source=MSI\\SQLEXPRESS;Initial Catalog=DEPIAssignment;Integrated Security=True;Trust Server Certificate=True;"));
 
             var app = builder.Build();
 

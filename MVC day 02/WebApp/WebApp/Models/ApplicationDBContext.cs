@@ -6,17 +6,15 @@ namespace WebApp.Models
 {
     public class ApplicationDBContext : DbContext
     {
-        #region DbSets
         public DbSet<Department> Departments { get; set; }
         public DbSet<Student> Students { get; set; }
         public DbSet<Course> Courses { get; set; }
         public DbSet<Teacher> Teachers { get; set; }
         public DbSet<StudentCourses> StudentCourses { get; set; }
-        #endregion
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Data Source=MSI\\SQLEXPRESS;Initial Catalog=HRSystem;Integrated Security=True;Trust Server Certificate=True;");
+            optionsBuilder.UseSqlServer("Data Source=MSI\\SQLEXPRESS;Initial Catalog=DEPIAssignment;Integrated Security=True;Trust Server Certificate=True;");
         }
 
         public ApplicationDBContext(DbContextOptions<ApplicationDBContext> options) : base(options) { }
