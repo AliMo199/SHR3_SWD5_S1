@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alofi\\OneDrive\\Desktop\\Lelouch\\Visual Studio projs\\WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B70EF2C-102C-40EF-BD47-CC395AFB2A88}|WebApp\\WebApp.csproj|c:\\users\\alofi\\onedrive\\desktop\\lelouch\\visual studio projs\\webapp\\webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B70EF2C-102C-40EF-BD47-CC395AFB2A88}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\alofi\\OneDrive\\Desktop\\Lelouch\\Visual Studio projs\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\alofi\\OneDrive\\Desktop\\Lelouch\\Visual Studio projs\\WebApp\\WebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAASwCAAAACAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-29T07:46:13.186Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
