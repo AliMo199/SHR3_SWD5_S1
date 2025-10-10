@@ -1,0 +1,97 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alofi\\OneDrive\\Desktop\\Lelouch\\Visual Studio projs\\WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B70EF2C-102C-40EF-BD47-CC395AFB2A88}|WebApp\\WebApp.csproj|c:\\users\\alofi\\onedrive\\desktop\\lelouch\\visual studio projs\\webapp\\webapp\\views\\student\\courseresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3B70EF2C-102C-40EF-BD47-CC395AFB2A88}|WebApp\\WebApp.csproj|solutionrelative:webapp\\views\\student\\courseresult.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B70EF2C-102C-40EF-BD47-CC395AFB2A88}|WebApp\\WebApp.csproj|c:\\users\\alofi\\onedrive\\desktop\\lelouch\\visual studio projs\\webapp\\webapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B70EF2C-102C-40EF-BD47-CC395AFB2A88}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B70EF2C-102C-40EF-BD47-CC395AFB2A88}|WebApp\\WebApp.csproj|c:\\users\\alofi\\onedrive\\desktop\\lelouch\\visual studio projs\\webapp\\webapp\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B70EF2C-102C-40EF-BD47-CC395AFB2A88}|WebApp\\WebApp.csproj|solutionrelative:webapp\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B70EF2C-102C-40EF-BD47-CC395AFB2A88}|WebApp\\WebApp.csproj|c:\\users\\alofi\\onedrive\\desktop\\lelouch\\visual studio projs\\webapp\\webapp\\viewmodels\\studentcourseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B70EF2C-102C-40EF-BD47-CC395AFB2A88}|WebApp\\WebApp.csproj|solutionrelative:webapp\\viewmodels\\studentcourseviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseResult.cshtml",
+              "DocumentMoniker": "C:\\Users\\alofi\\OneDrive\\Desktop\\Lelouch\\Visual Studio projs\\WebApp\\WebApp\\Views\\Student\\CourseResult.cshtml",
+              "RelativeDocumentMoniker": "WebApp\\Views\\Student\\CourseResult.cshtml",
+              "ToolTip": "C:\\Users\\alofi\\OneDrive\\Desktop\\Lelouch\\Visual Studio projs\\WebApp\\WebApp\\Views\\Student\\CourseResult.cshtml*",
+              "RelativeToolTip": "WebApp\\Views\\Student\\CourseResult.cshtml*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-10T12:13:35.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentCourseViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\alofi\\OneDrive\\Desktop\\Lelouch\\Visual Studio projs\\WebApp\\WebApp\\ViewModels\\StudentCourseViewModel.cs",
+              "RelativeDocumentMoniker": "WebApp\\ViewModels\\StudentCourseViewModel.cs",
+              "ToolTip": "C:\\Users\\alofi\\OneDrive\\Desktop\\Lelouch\\Visual Studio projs\\WebApp\\WebApp\\ViewModels\\StudentCourseViewModel.cs",
+              "RelativeToolTip": "WebApp\\ViewModels\\StudentCourseViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T11:55:20.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\alofi\\OneDrive\\Desktop\\Lelouch\\Visual Studio projs\\WebApp\\WebApp\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\alofi\\OneDrive\\Desktop\\Lelouch\\Visual Studio projs\\WebApp\\WebApp\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T13:34:21.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\alofi\\OneDrive\\Desktop\\Lelouch\\Visual Studio projs\\WebApp\\WebApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "WebApp\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\alofi\\OneDrive\\Desktop\\Lelouch\\Visual Studio projs\\WebApp\\WebApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "WebApp\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAJMAAAAAAAAAAAAkwJ8AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-01T08:31:57.007Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
