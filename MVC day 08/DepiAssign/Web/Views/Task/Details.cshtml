@@ -1,0 +1,16 @@
+﻿@model TaskItem
+@{
+	ViewData["Title"] = "Task Detail";
+}
+<h1>Task Detail</h1>
+<div class="card">
+	<div class="card-body">
+		<h5 class="card-title">@Model.Title</h5>
+		<p class="card-text">@Model.Description</p>
+		<p class="card-text"><strong>Status:</strong> @(Model.IsCompleted ? "Completed" : "Pending")</p>
+		<p class="card-text"><strong>Created At:</strong> @Model.CreatedAt.ToString("g")</p>
+		<p class="card-text"><strong>Due Date:</strong> @Model.DueDate.ToString()</p>
+		<a asp-action="Edit" asp-route-id="@Model.id" class="btn btn-primary">Edit</a>
+		<a asp-action="Index" class="btn btn-secondary">Back to List</a>
+	</div>
+</div>
