@@ -1,0 +1,11 @@
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\TaskManagement\TaskManagement.Tests\bin\Debug\net9.0\TaskManagement.Tests.deps.json
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\TaskManagement\TaskManagement.Tests\bin\Debug\net9.0\TaskManagement.Tests.dll
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\TaskManagement\TaskManagement.Tests\bin\Debug\net9.0\TaskManagement.Tests.pdb
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\TaskManagement\TaskManagement.Tests\obj\Debug\net9.0\TaskManagement.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\TaskManagement\TaskManagement.Tests\obj\Debug\net9.0\TaskManagement.Tests.AssemblyInfoInputs.cache
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\TaskManagement\TaskManagement.Tests\obj\Debug\net9.0\TaskManagement.Tests.AssemblyInfo.cs
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\TaskManagement\TaskManagement.Tests\obj\Debug\net9.0\TaskManagement.Tests.csproj.CoreCompileInputs.cache
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\TaskManagement\TaskManagement.Tests\obj\Debug\net9.0\TaskManagement.Tests.dll
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\TaskManagement\TaskManagement.Tests\obj\Debug\net9.0\refint\TaskManagement.Tests.dll
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\TaskManagement\TaskManagement.Tests\obj\Debug\net9.0\TaskManagement.Tests.pdb
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\TaskManagement\TaskManagement.Tests\obj\Debug\net9.0\ref\TaskManagement.Tests.dll

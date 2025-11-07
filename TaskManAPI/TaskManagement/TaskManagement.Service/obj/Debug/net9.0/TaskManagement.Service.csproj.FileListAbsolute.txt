@@ -1,0 +1,15 @@
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\TaskManagement\TaskManagement.Service\bin\Debug\net9.0\TaskManagement.Service.deps.json
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\TaskManagement\TaskManagement.Service\bin\Debug\net9.0\TaskManagement.Service.dll
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\TaskManagement\TaskManagement.Service\bin\Debug\net9.0\TaskManagement.Service.pdb
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\TaskManagement\TaskManagement.Service\bin\Debug\net9.0\TaskManagement.Core.dll
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\TaskManagement\TaskManagement.Service\bin\Debug\net9.0\TaskManagement.Core.pdb
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\TaskManagement\TaskManagement.Service\obj\Debug\net9.0\TaskManagement.Service.csproj.AssemblyReference.cache
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\TaskManagement\TaskManagement.Service\obj\Debug\net9.0\TaskManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\TaskManagement\TaskManagement.Service\obj\Debug\net9.0\TaskManagement.Service.AssemblyInfoInputs.cache
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\TaskManagement\TaskManagement.Service\obj\Debug\net9.0\TaskManagement.Service.AssemblyInfo.cs
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\TaskManagement\TaskManagement.Service\obj\Debug\net9.0\TaskManagement.Service.csproj.CoreCompileInputs.cache
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\TaskManagement\TaskManagement.Service\obj\Debug\net9.0\TaskMana.2D938F65.Up2Date
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\TaskManagement\TaskManagement.Service\obj\Debug\net9.0\TaskManagement.Service.dll
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\TaskManagement\TaskManagement.Service\obj\Debug\net9.0\refint\TaskManagement.Service.dll
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\TaskManagement\TaskManagement.Service\obj\Debug\net9.0\TaskManagement.Service.pdb
+C:\Users\alofi\OneDrive\Desktop\Lelouch\Visual Studio projs\TaskManagement\TaskManagement.Service\obj\Debug\net9.0\ref\TaskManagement.Service.dll
